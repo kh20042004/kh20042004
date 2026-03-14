@@ -20,21 +20,33 @@ I am a final-year Information Technology student with a strong interest in **Web
 
 ## 🛠 Tech Stack
 
-### Programming
-Java • JavaScript
+### Languages
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
 ### Frontend
-HTML • CSS • React • Bootstrap • Tailwind CSS
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-blue?style=for-the-badge&logo=tailwind-css)
 
 ### Backend
-Node.js • Express.js • Spring Boot • RESTful API
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
+![REST API](https://img.shields.io/badge/REST-API-red?style=for-the-badge)
 
 ### Database
-MySQL • MongoDB • SQL Server
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![SQL Server](https://img.shields.io/badge/SQL_Server-red?style=for-the-badge&logo=microsoftsqlserver)
 
 ### Tools
-Git • GitHub • Docker • Jira
-
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Jira](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira)
 ---
 
 ## 🚀 Featured Projects
