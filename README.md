@@ -23,6 +23,9 @@ I am a final-year Information Technology student with a strong interest in **Web
 ### Languages
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+
 
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
@@ -47,38 +50,6 @@ I am a final-year Information Technology student with a strong interest in **Web
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 ![Jira](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira)
----
-
-## 🚀 Featured Projects
-
-### 🏠 Smart House & Rental Room Management System
-Full-stack rental platform with booking system and real-time chat.
-
-**Tech:** Node.js, MongoDB, Socket.IO, AI  
-
-🔗 Repository  
-https://github.com/kh20042004/QLChoThueTro
-
----
-
-### 📚 English 12 Smart – Online English Learning Platform
-Online English learning platform designed for grade 12 students.
-
-**Tech:** Spring Boot, MongoDB, JWT, OAuth2  
-
-🔗 Repository  
-https://github.com/kh20042004/WebsiteHocTiengAnh
-
----
-
-### 🚗 Online Car Rental Management System
-Full-stack car rental platform with booking management and MoMo payment integration.
-
-**Tech:** Node.js, Express.js, MySQL, MoMo API  
-
-🔗 Repository  
-https://github.com/kh20042004/WebsiteThueXeOTo
-
 ---
 
 ## 📊 GitHub Stats
